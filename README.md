@@ -2,7 +2,7 @@
 - 👀 I’m interested in painting,programming and playing games
 - 🌱 I’m currently learning data sciense
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on my e-mail: elisabethdiaspereira@gmail.com
+- 📫 How to reach me ...
 
 <!---
 elisadias27/elisadias27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
