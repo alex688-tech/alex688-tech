@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elisadias27
 - 👀 I’m interested in painting,programming and playing games
-- 🌱 I’m currently learning data sciense
+- 🌱 I’m currently learning front-end 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
